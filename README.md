@@ -1,1 +1,1 @@
-# Mauve-Fashion-Blog
+# Mauve-a-fashion-blog
